@@ -1,0 +1,11 @@
+# Window title 
+Quiz 2: While Loops
+# first street, first avenue, num streets, num avenues showing 
+0 0 7 7 
+# intersection size (in pixels) 
+48 
+#Fence 
+becker.robots.Wall 1 1 WEST 
+becker.robots.Wall 2 1 WEST 
+becker.robots.Wall 3 1 WEST 
+becker.robots.Wall 4 1 WEST
