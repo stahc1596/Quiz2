@@ -32,6 +32,8 @@ public class Quiz2 {
             karel.turnLeft();
             karel.turnLeft();
             karel.turnLeft();
+            //karel checks if he has reached the end of the wall. If not, then
+            //karel keeps walking and checks again
         }
        
     }
